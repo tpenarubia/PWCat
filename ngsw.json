@@ -10,7 +10,7 @@
         "https://tpenarubia.github.io/PWCat/favicon.ico",
         "https://tpenarubia.github.io/PWCat/index.html",
         "https://tpenarubia.github.io/PWCat/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://tpenarubia.github.io/PWCat/main.bb08bad61d0aeb0b717a.bundle.js",
+        "https://tpenarubia.github.io/PWCat/main.b3d12fedbc066235566f.bundle.js",
         "https://tpenarubia.github.io/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
         "https://tpenarubia.github.io/PWCat/styles.7bd461a98737fde4acd3.bundle.css"
       ],
@@ -26,20 +26,22 @@
         "https://tpenarubia.github.io/PWCat/assets/icon-256x256.png",
         "https://tpenarubia.github.io/PWCat/assets/icon-512x512.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "https://tpenarubia.github.io/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "https://tpenarubia.github.io/PWCat/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
-    "https://tpenarubia.github.io/PWCat/main.bb08bad61d0aeb0b717a.bundle.js": "c947aecd670643abe3ef8bbc0a7e7616e826a701",
+    "https://tpenarubia.github.io/PWCat/main.b3d12fedbc066235566f.bundle.js": "28457f219b7cc319d6870047372e4d3fb364d4fd",
     "https://tpenarubia.github.io/PWCat/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
     "https://tpenarubia.github.io/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
     "https://tpenarubia.github.io/PWCat/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
     "https://tpenarubia.github.io/PWCat/styles.7bd461a98737fde4acd3.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
     "https://tpenarubia.github.io/PWCat/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
     "https://tpenarubia.github.io/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://tpenarubia.github.io/PWCat/index.html": "ae482bf9af909b16c517f0cba90d2296f407f778"
+    "https://tpenarubia.github.io/PWCat/index.html": "f2cbf24d015d3843b80cabbb9b0dd22cb037f09f"
   }
 }
