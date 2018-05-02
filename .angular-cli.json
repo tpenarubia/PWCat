@@ -12,7 +12,6 @@
         "favicon.ico",
         "manifest.json"
       ],
-      "serviceWorker": true,
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
@@ -28,7 +27,8 @@
       "environments": {
         "dev": "environments/environment.ts",
         "prod": "environments/environment.prod.ts"
-      }
+      },
+      "serviceWorker": true
     }
   ],
   "e2e": {

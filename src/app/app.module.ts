@@ -16,10 +16,10 @@ import { environment } from '../environments/environment';
   ],
   imports: [
     BrowserModule,
+    environment.production ? ServiceWorkerModule.register('ngsw-worker.js') : [],
     MatButtonModule,
     MatToolbarModule,
-    MatCardModule,
-    environment.production ? ServiceWorkerModule.register('ngsw-worker.js') : []
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
